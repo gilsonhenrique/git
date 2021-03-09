@@ -1,2 +1,1 @@
-Este arquivo vai ser utilizado para usar pela primeira vez o comando git pull,
-sincronizando o GITHUB(remoto) com o GIT (local).
+Este arquivo foi criado no GITHUB e incluido no GIT, utilizando o comando " git pull ", que sincroniza o GITHUB(remoto) com o GIT (local).
